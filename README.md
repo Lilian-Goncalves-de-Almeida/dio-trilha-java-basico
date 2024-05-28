@@ -16,7 +16,9 @@ Criar uma classe java `BancoTerminal.java`, localizada no projeto `ContaBanco`, 
 ### Reposta esperada
 
 ```
-Olá MARIO ANDRADE, obrigado por criar uma conta em nosso banco, sua agência é 067-8, conta 1021 e seu saldo 237.48 já está disponível para saque
+Olá MARIO ANDRADE, obrigado por criar uma conta em nosso banco,
+sua agência é 067-8, conta 1021 e seu saldo 237.48
+já está disponível para saque
 ```
 
 
